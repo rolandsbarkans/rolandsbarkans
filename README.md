@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rolandsbarkans
+- Hi, I’m @rolandsbarkans
 
 
 <!---
